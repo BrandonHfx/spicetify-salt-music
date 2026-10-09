@@ -1,1 +1,10 @@
-
+   {
+     "name": "Salts Music",
+     "description": "Rate songs with stars, then export your ratings to view on the music ratings site https://nicecock.ca/music.",
+     "preview": "preview.png",
+     "main": "salt-star-ratings.js",
+     "readme": "README.md",
+     "branch": "main",
+     "authors": [{ "name": "BrandonHfx", "url": "https://github.com/BrandonHfx" }],
+     "tags": ["ratings", "stars"]
+   }
