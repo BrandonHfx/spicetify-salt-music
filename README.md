@@ -1,2 +1,2 @@
 # spicetify-salt-music
-A modified version of [star ratings](https://github.com/brimell/spicetify-star-ratings) for https://nicecock.ca/music
+A modified version of [star ratings](https://github.com/brimell/spicetify-star-ratings) for https://my-music.site/music
