@@ -1,6 +1,6 @@
 A modified version of [star ratings](https://github.com/brimell/spicetify-star-ratings) for https://my-music.site/music
 
-# Star Ratings for Spotify V25
+# Star Ratings for Spotify V26
 
 Rate songs, albums and playlists with stars directly inside the Spotify desktop app, then show your ratings off on a website.
 
